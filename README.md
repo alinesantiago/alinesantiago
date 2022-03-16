@@ -1,4 +1,5 @@
-[](https://komarev.com/ghpvc/?username=alinesantiagos&color=006bed)
+
+![](https://komarev.com/ghpvc/?username=alinesantiago&color=006bed)
 
 <h3> :woman_technologist: &nbsp;Hello World! </h3>
 
