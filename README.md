@@ -3,8 +3,8 @@
 
 <h3> :woman_technologist: &nbsp;Sobre mim </h3>
 
-- 🎓 &nbsp; Estou em formação **Fullstack** na <a href="New Tab Academy">https://www.newtab.academy/</a>, e estudando para certificação AWS developer na Linux Tips DevOps School.
-- 💼 &nbsp; Trabalhando na área de **Administração, mas migrando para tecnologia!** na <a href="LINK DA EMPRESA">EMPRESA</a>
+- 🎓 &nbsp; Estou em formação **Fullstack** na <a href="https://www.newtab.academy/">Newtab Academy</a>, e estudando para certificação AWS developer na Linux Tips DevOps School.
+- 💼 &nbsp; Trabalhando na área de **Administração, mas migrando para tecnologia!** na <a href="https://www.passarelli.com.br/">Passarelli</a>.
 - 🌱 &nbsp; Aprendendo mais sobre **Javascript e React**.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
