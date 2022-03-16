@@ -1,15 +1,14 @@
-
-![](https://komarev.com/ghpvc/?username=alinesantiagos&color=006bed)
+[](https://komarev.com/ghpvc/?username=alinesantiagos&color=006bed)
 
 <h3> :woman_technologist: &nbsp;Hello World! </h3>
 
-- 🎓 &nbsp; Estou em formação **Fullstack** na <a href="https://www.newtab.academy/">Newtab Academy</a>, e estudando para certificação AWS developer na Linux Tips DevOps School.
-- 💼 &nbsp; Trabalhando na área de **Administração, mas migrando para tecnologia!** na <a href="https://www.passarelli.com.br/">Passarelli</a>.
-- 🌱 &nbsp; Aprendendo mais sobre **Javascript e React**.
+- 🎓 &nbsp; I'm in **Fullstack** training at <a hrefhttps://www.newtab.academy">Newtab Academy</a>, and studying for AWS developer at Linux Tips DevOps School.
+- 💼 &nbsp; Working in the area of ​​**Administration, but migrating to technology!** at <a href="https://www.passarelli.com.br/">Passarelli</a>.
+- 🌱&nbsp; Learning more about **Javascript and React**.
 
-<h3> :rocket: &nbsp;Minhas Skills </h3>
+<h3> :rocket: &nbsp;My Skills </h3>
 
-**Aplicações e Dados**
+**Applications and Data**
 
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
@@ -21,7 +20,7 @@
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 
-**Ferramentas de Desenvolvimento**
+**Development Tools**
 
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
@@ -30,7 +29,7 @@
 
 <br/>
 
-## **GitHub Estatísticas**
+## **GitHub Stats**
 <a href="https://github.com/alinesantiago">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alinesantiago&theme=radical&hide_langs_below=1" />
 </a>
@@ -40,11 +39,8 @@
 
 <br/>
 
-<h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
+<h3> :earth_americas: &nbsp;Where to find me: </h3>
 
-[![Linkedin: Aline Santiago](https://img.shields.io/badge/-alinesantiago-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/santiagoaline/)](https://www.linkedin.com/in/santiagoaline/)
-[![Instagram: Aline Santiago](https://img.shields.io/badge/-alinesantiago-blueviolet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.linkedin.com/in/santiagoaline/)](https://www.linkedin.com/in/santiagoaline/)
-[![Aline Santiago]( https://img.shields.io/github/followers/alinesantiago?label=follow&style=social)](https://github.com/alinesantiago)
-
-
-
+[![Linkedin: Aline Santiago](https://img.shields.io/badge/-alinesantiago-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/santiagoaline/ )](https://www.linkedin.com/in/santiagoaline/)
+[![Instagram: Aline Santiago](https://img.shields.io/badge/-alinesantiago-blueviolet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.linkedin.com/in/santiagoaline/ )](https://www.linkedin.com/in/santiagoaline/)
+[![Aline Santiago](https://img.shields.io/github/followers/alinesantiago?label=follow&style=social)](https://github.com/alinesantiago)
