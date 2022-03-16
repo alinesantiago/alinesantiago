@@ -1,7 +1,7 @@
 
 ![](https://komarev.com/ghpvc/?username=alinesantiagos&color=006bed)
 
-<h3> :woman_technologist: &nbsp;Sobre mim </h3>
+<h3> :woman_technologist: &nbsp;Hello World! </h3>
 
 - 🎓 &nbsp; Estou em formação **Fullstack** na <a href="https://www.newtab.academy/">Newtab Academy</a>, e estudando para certificação AWS developer na Linux Tips DevOps School.
 - 💼 &nbsp; Trabalhando na área de **Administração, mas migrando para tecnologia!** na <a href="https://www.passarelli.com.br/">Passarelli</a>.
