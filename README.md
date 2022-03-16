@@ -3,7 +3,7 @@
 
 <h3> :woman_technologist: &nbsp;Hello World! </h3>
 
-- 🎓 &nbsp; I'm in **Fullstack** training at <a href="https://www.newtab.academy"> Newtab Academy</a> , and training for AWS certified DevOps Engineer in LinuxTips DevOps School.
+- 🎓 &nbsp; I'm in **Fullstack** training at <a href="https://www.newtab.academy"> Newtab Academy</a> , and training for AWS certified DevOps engineer in LinuxTips DevOps School.
 - 💼 &nbsp; Working in the area of **Administration, but migrating to technology!** at <a href="https://www.passarelli.com.br/">Passarelli</a>.
 - 🌱&nbsp; Learning more about **Javascript and React**.
 
