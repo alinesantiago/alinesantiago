@@ -42,5 +42,5 @@
 <h3> :earth_americas: &nbsp;Where to find me: </h3>
 
 [![Linkedin: Aline Santiago](https://img.shields.io/badge/-alinesantiago-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/santiagoaline/ )](https://www.linkedin.com/in/santiagoaline/)
-[![Instagram: Aline Santiago](https://img.shields.io/badge/-alinesantiago-blueviolet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.linkedin.com/in/santiagoaline/ )](https://www.linkedin.com/in/santiagoaline/)
+[![Instagram: Aline Santiago](https://img.shields.io/badge/-alxnxsantiago-blueviolet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/alxnxsantiago/ )](https://www.instagram.com/alxnxsantiago/)
 [![Aline Santiago](https://img.shields.io/github/followers/alinesantiago?label=follow&style=social)](https://github.com/alinesantiago)
